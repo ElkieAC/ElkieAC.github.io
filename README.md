@@ -1,1 +1,1 @@
-This is my website portfolio created with HTML, CSS JavaScript, and Bootstrap. I used the base design from a StartBootstrap portfolio template https://startbootstrap.com/theme/resume. 
+This is my portfolio built with HTML, SCSS, JavaScript and Bootstrap. I got the starting design base from a StartBootstrap portfolio template https://startbootstrap.com/theme/resume.
